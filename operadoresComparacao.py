@@ -20,3 +20,15 @@ print(x >= y)
 # Menor ou igual (<=)
 print(x <= y)
 
+
+if x == y:
+    print("Os valores são iguais")
+
+if x != y:
+    print("Os valores são diferentes")
+
+if x > y:
+    print("x é maior que y")
+
+if x < y:
+    print("x é menor que y")
